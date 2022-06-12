@@ -26,56 +26,12 @@
     {
       "name": "Логан",
       "id": 1
-    },
-    {
-      "name": "sdsd",
-      "id": 2
     }
   ],
   "movies": [
     {
       "name": "Ла-ла лэнд",
       "id": 3
-    },
-    {
-      "name": "Одержимость",
-      "id": 4
-    },
-    {
-      "name": "Boris Zakharyan",
-      "id": 7
-    },
-    {
-      "name": "Boris",
-      "id": 9
-    },
-    {
-      "name": "bkj",
-      "id": 10
-    },
-    {
-      "name": "Dustman",
-      "id": 11
-    },
-    {
-      "name": "Boris",
-      "id": 12
-    },
-    {
-      "name": "Boris",
-      "id": 13
-    },
-    {
-      "name": "Boris Zakharyan",
-      "id": 14
-    },
-    {
-      "name": "Boris Zakharyan",
-      "id": 16
-    },
-    {
-      "name": "Boris Zakharyan",
-      "id": 17
     },
     {
       "name": "ddfdf",
@@ -85,6 +41,13 @@
       "name": "ffff",
       "idi": 1,
       "id": 18
+    }
+  ],
+  "modal": [
+    {
+      "name": "Логан",
+      "phone": "Логан",
+      "id": 1
     }
   ]
 }
